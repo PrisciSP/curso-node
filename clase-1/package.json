@@ -1,0 +1,30 @@
+{
+  "name": "node-js-primeros-pasos",
+  "version": "1.0.0",
+  "description": "El mejor curso de Node gratis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrisciSP/curso-node.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs"
+  ],
+  "author": "Prisci Alejandro Sanchez Paez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrisciSP/curso-node/issues"
+  },
+  "homepage": "https://github.com/PrisciSP/curso-node#readme",
+  "dependencies": {
+    "picocolors": "^1.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
